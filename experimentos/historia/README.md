@@ -2,7 +2,9 @@
 
 `stream_wikidata.py` obtiene eventos fechados de Wikidata y envía cada evento
 a la API local de Ollaya. Cada línea de salida estándar es un objeto JSON que
-incluye el registro fuente y la decisión completa, por lo que puede redirigirse
+incluye el registro fuente y la decisión completa, por lo que puede redirigirse a un fichero si es necesario.
+
+He grabado un vídeo en el que hago una demo del experimento: ![Experimento con Ollaya + winow:e4b](https://youtu.be/Ls0mCsddU5A).
 
 ## Requisitos
 
